@@ -47,4 +47,4 @@ The server listens on port `5000`.
 
 ## Team
 
-Built with a classmate. **My contribution:** co-developed the server's multithreading and the request handling and validation.
+Built with Tala Aloraini.
